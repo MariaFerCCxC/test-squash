@@ -1,3 +1,3 @@
-const sum = (a: number, b: number): number => a + b;
+const diff = (a: number, b: number): number => a - b;
 
-console.log(`La suma de 10 + 3 es: ${sum(10, 3)}`);
+console.log(`La resta de 10 - 3 es: ${diff(10, 3)}`);
